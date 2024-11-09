@@ -15,5 +15,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[Linkedin]:(https://www.linkedin.com/in/connor-bressler-004036233/)
+[Linkedin](https://www.linkedin.com/in/connor-bressler-004036233/)
 
