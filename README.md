@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
 
 <h2> 🤳 Connect with me:</h2>
 
