@@ -7,7 +7,7 @@
   - [Azure Sentinel Independent Project]
   - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
   - [Replacement of all Wireless Access Points and Network Switches](https://github.com/cjb1821/WAPS-Network-Switches)
-  - [Implementation of Firewall and Intrusion Detection System]
+  - [Implementation of Firewall and Intrusion Detection System](https://github.com/cjb1821/Firewall-IDS)
 
 
 <h2> 🤳 Connect with me:</h2>
