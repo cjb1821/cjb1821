@@ -5,6 +5,8 @@
 
   - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
   - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
+  - [Replace of all Wireless Access Points and Network Switches]
+  - [Implementation of Firewall and Intrusion Detection System]
 
 <h2> 🤳 Connect with me:</h2>
 
