@@ -14,6 +14,6 @@
 
 [Linkedin](https://www.linkedin.com/in/connor-bressler-004036233/)
 
-[Email](1020cbressler@gmail.com)
+
 
 
