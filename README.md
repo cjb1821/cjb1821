@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
-  - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
   - [Replacement of all Wireless Access Points and Network Switches](https://github.com/cjb1821/WAPS-Network-Switches)
+  - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
+  - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
   - [Implementation of Firewall and Intrusion Detection System](https://github.com/cjb1821/Firewall-IDS)
   - [Azure Sentinel Independent Project]
 
