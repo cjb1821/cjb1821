@@ -7,7 +7,7 @@
   - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
   - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
   - [Implementation of Firewall and Intrusion Detection System](https://github.com/cjb1821/Firewall-IDS)
-  - [Azure Sentinel Independent Project]
+  - [EDR Project]
 
 
 <h2> 🤳 Connect with me:</h2>
