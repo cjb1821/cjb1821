@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [SOAR-EDR Project](https://github.com/cjb1821/SOAR-EDR-Project)
+  - [AzureVirtualNetworkingLab](https://github.com/cjb1821/AzureVirtualNetworkingLab)
   - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
   - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
   - [Implementation of Firewall and Intrusion Detection System](https://github.com/cjb1821/Firewall-IDS)
