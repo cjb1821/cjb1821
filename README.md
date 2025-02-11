@@ -6,7 +6,7 @@
   - [AzureVirtualNetworkingLab](https://github.com/cjb1821/AzureVirtualNetworkingLab)
   - [Implementation of Elastic SIEM](https://github.com/cjb1821/Elastic-SIEM)
   - [BlackBoxPentrationTest](https://github.com/cjb1821/BlackBoxPentrationTest)
-  - [SecurityAuditingWork](https://github.com/cjb1821/BlackBoxPentrationTest)
+  - [SecurityAuditingWork](https://github.com/cjb1821/SecurityAuditingWork)
   - [Implementation of Firewall and Intrusion Detection System](https://github.com/cjb1821/Firewall-IDS)
   - [Replacement of all Wireless Access Points and Network Switches](https://github.com/cjb1821/WAPS-Network-Switches)
   
